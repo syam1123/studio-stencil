@@ -1,6 +1,6 @@
 {
-  "name": "studio-stencils",
-  "version": "0.0.3",
+  "name": "studio-stencil",
+  "version": "0.0.1",
   "description": "Stencil Component Starter",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
