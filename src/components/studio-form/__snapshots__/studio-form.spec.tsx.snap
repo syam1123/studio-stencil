@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`studio-form renders 1`] = `
+<studio-form>
+  <mock:shadow-root>
+    <div class="container">
+      <form>
+        <label>
+          First Name:
+          <input type="text" value="">
+        </label>
+        <label>
+          Last Name:
+          <input type="text" value="">
+        </label>
+        <label>
+          Email:
+          <input type="email" value="">
+        </label>
+        <label>
+          Phone Number:
+          <input type="text" value="">
+        </label>
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+  </mock:shadow-root>
+</studio-form>
+`;

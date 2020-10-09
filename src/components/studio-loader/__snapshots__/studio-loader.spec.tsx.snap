@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`studio-loader renders 1`] = `
+<studio-loader>
+  <mock:shadow-root>
+    <div class="loadingio-spinner-bean-eater-4tm8yii7439">
+      <div class="ldio-iibc247m6p">
+        <div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+        <div>
+          <div></div>
+          <div></div>
+          <div></div>
+        </div>
+      </div>
+    </div>
+  </mock:shadow-root>
+</studio-loader>
+`;
